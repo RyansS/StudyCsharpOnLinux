@@ -1,0 +1,14 @@
+/home/infavoravel/Projects/FirstProjectOnLinux/bin/Debug/net10.0/FirstProjectOnLinux
+/home/infavoravel/Projects/FirstProjectOnLinux/bin/Debug/net10.0/FirstProjectOnLinux.deps.json
+/home/infavoravel/Projects/FirstProjectOnLinux/bin/Debug/net10.0/FirstProjectOnLinux.runtimeconfig.json
+/home/infavoravel/Projects/FirstProjectOnLinux/bin/Debug/net10.0/FirstProjectOnLinux.dll
+/home/infavoravel/Projects/FirstProjectOnLinux/bin/Debug/net10.0/FirstProjectOnLinux.pdb
+/home/infavoravel/Projects/FirstProjectOnLinux/obj/Debug/net10.0/FirstProjectOnLinux.GeneratedMSBuildEditorConfig.editorconfig
+/home/infavoravel/Projects/FirstProjectOnLinux/obj/Debug/net10.0/FirstProjectOnLinux.AssemblyInfoInputs.cache
+/home/infavoravel/Projects/FirstProjectOnLinux/obj/Debug/net10.0/FirstProjectOnLinux.AssemblyInfo.cs
+/home/infavoravel/Projects/FirstProjectOnLinux/obj/Debug/net10.0/FirstProjectOnLinux.csproj.CoreCompileInputs.cache
+/home/infavoravel/Projects/FirstProjectOnLinux/obj/Debug/net10.0/FirstProjectOnLinux.dll
+/home/infavoravel/Projects/FirstProjectOnLinux/obj/Debug/net10.0/refint/FirstProjectOnLinux.dll
+/home/infavoravel/Projects/FirstProjectOnLinux/obj/Debug/net10.0/FirstProjectOnLinux.pdb
+/home/infavoravel/Projects/FirstProjectOnLinux/obj/Debug/net10.0/FirstProjectOnLinux.genruntimeconfig.cache
+/home/infavoravel/Projects/FirstProjectOnLinux/obj/Debug/net10.0/ref/FirstProjectOnLinux.dll
