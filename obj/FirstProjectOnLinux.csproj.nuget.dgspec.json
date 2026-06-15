@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/infavoravel/Projects/FirstProjectOnLinux/FirstProjectOnLinux.csproj": {}
+    "/home/infavoravel/StudyCsharpOnLinux/FirstProjectOnLinux.csproj": {}
   },
   "projects": {
-    "/home/infavoravel/Projects/FirstProjectOnLinux/FirstProjectOnLinux.csproj": {
+    "/home/infavoravel/StudyCsharpOnLinux/FirstProjectOnLinux.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/infavoravel/Projects/FirstProjectOnLinux/FirstProjectOnLinux.csproj",
+        "projectUniqueName": "/home/infavoravel/StudyCsharpOnLinux/FirstProjectOnLinux.csproj",
         "projectName": "FirstProjectOnLinux",
-        "projectPath": "/home/infavoravel/Projects/FirstProjectOnLinux/FirstProjectOnLinux.csproj",
+        "projectPath": "/home/infavoravel/StudyCsharpOnLinux/FirstProjectOnLinux.csproj",
         "packagesPath": "/home/infavoravel/.nuget/packages/",
-        "outputPath": "/home/infavoravel/Projects/FirstProjectOnLinux/obj/",
+        "outputPath": "/home/infavoravel/StudyCsharpOnLinux/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/infavoravel/.nuget/NuGet/NuGet.Config"

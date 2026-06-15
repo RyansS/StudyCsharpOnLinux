@@ -12,3 +12,11 @@
 /home/infavoravel/Projects/FirstProjectOnLinux/obj/Debug/net10.0/FirstProjectOnLinux.pdb
 /home/infavoravel/Projects/FirstProjectOnLinux/obj/Debug/net10.0/FirstProjectOnLinux.genruntimeconfig.cache
 /home/infavoravel/Projects/FirstProjectOnLinux/obj/Debug/net10.0/ref/FirstProjectOnLinux.dll
+/home/infavoravel/StudyCsharpOnLinux/obj/Debug/net10.0/FirstProjectOnLinux.GeneratedMSBuildEditorConfig.editorconfig
+/home/infavoravel/StudyCsharpOnLinux/obj/Debug/net10.0/FirstProjectOnLinux.AssemblyInfoInputs.cache
+/home/infavoravel/StudyCsharpOnLinux/obj/Debug/net10.0/FirstProjectOnLinux.AssemblyInfo.cs
+/home/infavoravel/StudyCsharpOnLinux/obj/Debug/net10.0/FirstProjectOnLinux.csproj.CoreCompileInputs.cache
+/home/infavoravel/StudyCsharpOnLinux/obj/Debug/net10.0/FirstProjectOnLinux.sourcelink.json
+/home/infavoravel/StudyCsharpOnLinux/obj/Debug/net10.0/FirstProjectOnLinux.dll
+/home/infavoravel/StudyCsharpOnLinux/obj/Debug/net10.0/refint/FirstProjectOnLinux.dll
+/home/infavoravel/StudyCsharpOnLinux/obj/Debug/net10.0/FirstProjectOnLinux.pdb
