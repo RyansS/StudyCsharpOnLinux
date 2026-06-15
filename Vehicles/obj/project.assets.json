@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/infavoravel/StudyCsharpOnLinux/FirstProjectOnLinux/FirstProjectOnLinux.csproj",
-      "projectName": "FirstProjectOnLinux",
-      "projectPath": "/home/infavoravel/StudyCsharpOnLinux/FirstProjectOnLinux/FirstProjectOnLinux.csproj",
+      "projectUniqueName": "/home/infavoravel/StudyCsharpOnLinux/Vehicles/Vehicles.csproj",
+      "projectName": "Vehicles",
+      "projectPath": "/home/infavoravel/StudyCsharpOnLinux/Vehicles/Vehicles.csproj",
       "packagesPath": "/home/infavoravel/.nuget/packages/",
-      "outputPath": "/home/infavoravel/StudyCsharpOnLinux/FirstProjectOnLinux/obj/",
+      "outputPath": "/home/infavoravel/StudyCsharpOnLinux/Vehicles/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/infavoravel/.nuget/NuGet/NuGet.Config"

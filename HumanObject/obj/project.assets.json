@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/infavoravel/Projects/HumanObject/HumanObject.csproj",
+      "projectUniqueName": "/home/infavoravel/StudyCsharpOnLinux/HumanObject/HumanObject.csproj",
       "projectName": "HumanObject",
-      "projectPath": "/home/infavoravel/Projects/HumanObject/HumanObject.csproj",
+      "projectPath": "/home/infavoravel/StudyCsharpOnLinux/HumanObject/HumanObject.csproj",
       "packagesPath": "/home/infavoravel/.nuget/packages/",
-      "outputPath": "/home/infavoravel/Projects/HumanObject/obj/",
+      "outputPath": "/home/infavoravel/StudyCsharpOnLinux/HumanObject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/infavoravel/.nuget/NuGet/NuGet.Config"
