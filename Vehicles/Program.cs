@@ -34,6 +34,7 @@ abstract class Vehicle
 
 class Car : Vehicle, IMove
 {
+    public int Doors {get; set;}
     public void MoveForward()
     {
         Console.WriteLine("Car is moving forward!");
@@ -44,8 +45,9 @@ class Car : Vehicle, IMove
         Console.WriteLine("Car is moving backwards!");
     }
 
-    public Car ()
+    public Car (string color, int year, string model, int seats, int doors) : base (color, year, model, seats)
     {
+        Doors = doors;
         
     }
 
