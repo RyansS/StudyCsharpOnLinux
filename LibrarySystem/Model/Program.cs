@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 
 public class LibraryModel {
-    
+
     [MaxLength(70)]
     [Required]
     public string Book {get; private set;}
@@ -16,7 +16,18 @@ public class LibraryModel {
 
     public bool BorrowState {get; private set;}
 
+    private int BookId {get; set;}
 
+    
+
+
+}
+
+public class LibraryManagement
+{
+
+    public static Dictionary<string Book, int BookId> = new Dictionary<>();
+    
 }
 
 
