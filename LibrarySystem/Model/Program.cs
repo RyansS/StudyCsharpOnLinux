@@ -5,14 +5,14 @@ public class LibraryModel {
 
     [MaxLength(70)]
     [Required]
-    public string Book {get; private set;}
+    public string? Book {get; private set;}
 
     [Required]
-    public string Author {get; private set;}
+    public string? Author {get; private set;}
 
     [MaxLength(30)]
     [Required]
-    public string User {get; set;}
+    public string? User {get; set;}
 
     public bool BorrowState {get; private set;}
 
@@ -21,13 +21,6 @@ public class LibraryModel {
     
 
 
-}
-
-public class LibraryManagement
-{
-
-    public static Dictionary<string Book, int BookId> = new Dictionary<>();
-    
 }
 
 
